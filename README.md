@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**osherz19991/osherz19991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm [Osher Zafar]!
 
-Here are some ideas to get you started:
+## About Me
+I am a passionate software developer with expertise in various technologies and platforms. I enjoy building innovative solutions and contributing to exciting projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Firestore**
+- **Python**
+- **Linux**
+- **React**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **MongoDB**
+- **SQL**
+- **Java**
+- **C**
+- **C#**
+- **MySQL**
+- **Unity**
+- **Git**
+- **Android Studio**
+- **Firebase**
+
+
+## Contact Me
+- Email: [Your Email Address](mailto:zafar.osher@gmail.com)
+
+Feel free to reach out to me for collaborations or inquiries!
