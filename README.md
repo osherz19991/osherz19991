@@ -17,7 +17,7 @@ I am a passionate software developer with expertise in various technologies and 
   <img src="./logos/C.png" alt="C" width="50"/>
   <img src="./logos/c#.png" alt="C#" width="50"/>
   <img src="./logos/mysql.svg" alt="MySQL" width="50"/>
-  <img src="./logos/unity.png" alt="Unity" width="50"/>
+  <img src="./logos/Unity.png" alt="Unity" width="50"/>
   <img src="./logos/git.jpg" alt="Git" width="50"/>
   <img src="./logos/androidstudio.png" alt="Android Studio" width="50"/>
   <img src="./logos/firestore.jpg" alt="Firestore" width="50"/>
