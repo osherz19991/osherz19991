@@ -6,9 +6,9 @@ I am a passionate software developer with expertise in various technologies and 
 ## Skills
 <p align="center">
   <img src="./logos/Python.png" alt="Python" width="100"/>
-  <img src="./logos/linux.png" alt="Linux" width="100"/>
+  <img src="./logos/linux1.png" alt="Linux" width="100"/>
   <img src="./logos/React.png" alt="React" width="100"/>
-  <img src="./logos/HTML.jpg" alt="HTML" width="100"/>
+  <img src="./logos/HTML1.jpg" alt="HTML" width="100"/>
   <img src="./logos/CSS.png" alt="CSS" width="100"/>
   <img src="./logos/JavaScript.png" alt="JavaScript" width="100"/>
   <img src="./logos/MONGODB.png" alt="MongoDB" width="100"/>
@@ -22,6 +22,8 @@ I am a passionate software developer with expertise in various technologies and 
   <img src="./logos/androidstudio1.png" alt="Android Studio" width="100"/>
   <img src="./logos/firestore.jpg" alt="Firestore" width="100"/>
   <img src="./logos/firebase.png" alt="Firebase" width="100"/>
+  <img src="./logos/nodejs" alt="nodejs" width="100"/>
+  <img src="./logos/express" alt="express" width="100"/>
 </p>
 
 ## Contact Me
