@@ -14,7 +14,7 @@ I am a passionate software developer with expertise in various technologies and 
   <img src="./logos/MONGODB.png" alt="MongoDB" width="50"/>
   <img src="./logos/sql.png" alt="SQL" width="50"/>
   <img src="./logos/Java.png" alt="Java" width="50"/>
-  <img src="./logos/c.png" alt="C" width="50"/>
+  <img src="./logos/C.png" alt="C" width="50"/>
   <img src="./logos/c#.png" alt="C#" width="50"/>
   <img src="./logos/mysql.svg" alt="MySQL" width="50"/>
   <img src="./logos/unity.png" alt="Unity" width="50"/>
