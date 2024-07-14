@@ -22,8 +22,8 @@ I am a passionate software developer with expertise in various technologies and 
   <img src="./logos/androidstudio1.png" alt="Android Studio" width="100"/>
   <img src="./logos/firestore.jpg" alt="Firestore" width="100"/>
   <img src="./logos/firebase.png" alt="Firebase" width="100"/>
-  <img src="./logos/nodejs" alt="nodejs" width="100"/>
-  <img src="./logos/express" alt="express" width="100"/>
+  <img src="./logos/nodejs.jpg" alt="nodejs" width="100"/>
+  <img src="./logos/express.png" alt="express" width="100"/>
 </p>
 
 ## Contact Me
