@@ -1,7 +1,7 @@
 # Hello, I'm Osher Zafar!
 
 ## About Me
-I am a passionate software developer with expertise in various technologies and platforms. I enjoy building innovative solutions and contributing to exciting projects. 
+I am a passionate software developer with experience in a range of technologies and platforms. I enjoy building innovative solutions and contributing to meaningful projects.
 
 ## Skills
 <p align="center">
